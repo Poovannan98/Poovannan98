@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poovannan M 
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...MERN Stack
+- 👀 I’m interested in ...Web Development(MERN Stack)
+- 🌱 I’m currently learning ...React Native
 - 💞️ I’m looking to collaborate on ...Freelancer
 - 📫 How to reach me ...poovannan098@gmail.com
 
